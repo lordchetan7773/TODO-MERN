@@ -16,8 +16,8 @@ Features
 - RESTful API
 - Body / Params type checking
 
-----------
 clear instructions on how to run the application
+------------------------------------------------
 1. Clone / Download the repository
 
 1. Install dependencies
