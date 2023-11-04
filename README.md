@@ -15,3 +15,21 @@ Features
 - Responsive TailwindCSS design
 - RESTful API
 - Body / Params type checking
+Getting Started
+Clone / Download the repository
+
+Install dependencies
+
+yarn install
+Build the project
+
+yarn build
+Run the project
+
+yarn start
+(Run only client)
+
+Navigate to /client
+
+yarn install
+yarn dev
