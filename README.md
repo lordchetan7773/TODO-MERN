@@ -23,27 +23,27 @@ clear instructions on how to run the application
 1. Install dependencies
 
    ```bash
-   yarn install
+   npm install
    ```
 
 1. Build the project
 
    ```bash
-   yarn build
+   npm build
    ```
 
 1. Run the project
 
    ```bash
-   yarn start
+   npm start
    ```
 
 1. (Run only client)
 
    Navigate to `/client`
    ```bash
-   yarn install
-   yarn dev
+   node install
+   node dev
    ```
 # User Authentication Workflow
 
