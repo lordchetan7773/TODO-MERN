@@ -42,8 +42,8 @@ clear instructions on how to run the application
 
    Navigate to `/client`
    ```bash
-   node install
-   node dev
+   npm install
+   npm start
    ```
 # User Authentication Workflow
 
