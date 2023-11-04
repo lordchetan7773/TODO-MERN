@@ -16,20 +16,33 @@ Features
 - RESTful API
 - Body / Params type checking
 Getting Started
-Clone / Download the repository
+----------
 
-Install dependencies
+1. Clone / Download the repository
 
-yarn install
-Build the project
+1. Install dependencies
 
-yarn build
-Run the project
+   ```bash
+   yarn install
+   ```
 
-yarn start
-(Run only client)
+1. Build the project
 
-Navigate to /client
+   ```bash
+   yarn build
+   ```
 
-yarn install
-yarn dev
+1. Run the project
+
+   ```bash
+   yarn start
+   ```
+
+1. (Run only client)
+
+   Navigate to `/client`
+   ```bash
+   yarn install
+   yarn dev
+   ```
+
