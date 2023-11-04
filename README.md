@@ -1,4 +1,4 @@
-Todo List MERN
+Building a Todo List App with User Authentication
 =========================================
 
 ### A todo list made using MERN stack with user authentication.
