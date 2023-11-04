@@ -15,9 +15,9 @@ Features
 - Responsive TailwindCSS design
 - RESTful API
 - Body / Params type checking
-Getting Started
-----------
 
+----------
+clear instructions on how to run the application
 1. Clone / Download the repository
 
 1. Install dependencies
